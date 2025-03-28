@@ -1,0 +1,4 @@
+type: worker
+name: crypto-ai-websocket
+env: python
+startCommand: python main.py
